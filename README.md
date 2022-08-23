@@ -36,4 +36,5 @@
 
 -------------------------------------------------
 ## 友链
-[新疆大学信息学院课程共享计划](https://github.com/Indolent-Kawhi/XJU-Computing-Heart)
+
+[新疆大学软件工程生存手册](https://gitee.com/XJUSoftwareHandbook/handbook01)
